@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.468ca0b2.css",
-    "main.js": "/static/js/main.3dadba0d.js",
-    "static/js/787.7562374b.chunk.js": "/static/js/787.7562374b.chunk.js",
-    "static/media/profileItemBackground.png": "/static/media/profileItemBackground.568c68766618d353bfa9.png",
-    "index.html": "/index.html",
-    "main.468ca0b2.css.map": "/static/css/main.468ca0b2.css.map",
-    "main.3dadba0d.js.map": "/static/js/main.3dadba0d.js.map",
-    "787.7562374b.chunk.js.map": "/static/js/787.7562374b.chunk.js.map"
+    "main.css": "/dimostenis.com_2024_Jul/static/css/main.1a9bdc05.css",
+    "main.js": "/dimostenis.com_2024_Jul/static/js/main.ce9c75a8.js",
+    "static/js/787.7562374b.chunk.js": "/dimostenis.com_2024_Jul/static/js/787.7562374b.chunk.js",
+    "static/media/profileItemBackground.png": "/dimostenis.com_2024_Jul/static/media/profileItemBackground.568c68766618d353bfa9.png",
+    "index.html": "/dimostenis.com_2024_Jul/index.html",
+    "main.1a9bdc05.css.map": "/dimostenis.com_2024_Jul/static/css/main.1a9bdc05.css.map",
+    "main.ce9c75a8.js.map": "/dimostenis.com_2024_Jul/static/js/main.ce9c75a8.js.map",
+    "787.7562374b.chunk.js.map": "/dimostenis.com_2024_Jul/static/js/787.7562374b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.468ca0b2.css",
-    "static/js/main.3dadba0d.js"
+    "static/css/main.1a9bdc05.css",
+    "static/js/main.ce9c75a8.js"
   ]
 }
